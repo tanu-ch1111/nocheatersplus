@@ -1,2 +1,1 @@
-# nocheatersplus
-Detect cheaters in realtime
+# ComingSoon
