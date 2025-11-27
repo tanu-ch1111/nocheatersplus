@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "nocheatersplus",
+    "name": "NoCheatersPlus",
+    "description": "Cheater Detection",
+    "version": "B1.3",
+    "mcversion": "1.8.9",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Nekol"],
+    "credits": "",
+    "logoFile": "icon.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
